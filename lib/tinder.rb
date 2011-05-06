@@ -1,4 +1,4 @@
-require 'active_support'
+require 'active_support/ordered_hash'
 require 'active_support/json'
 require 'mime/types'
 
